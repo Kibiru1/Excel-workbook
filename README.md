@@ -31,6 +31,6 @@ To ensure mathematical accuracy for downstream Pivot Tables, several data standa
 
 ## 📂 Repository Contents:
 
-* 📂 data/: `Raw_Data.csv`: The original, unmodified dataset provided for the assessment.
-* `Excel_jumia_data set assessment.xlsx`: The final workbook; containing the cleaned database, backend Pivot Tables, and the interactive frontend dashboard.
+* `Raw_Data.csv`: The original, unmodified dataset provided for the assessment.
+* `Excel_jumia_dataset assessment.xlsx`: The final workbook; containing the cleaned database, backend Pivot Tables, and the interactive frontend dashboard.
 * 📄 README.md
